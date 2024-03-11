@@ -4,7 +4,7 @@
 
 **User Story:** As an employee with a busy schedule, I want to add important events to a daily planner so that I can manage my time effectively. 
 
-**Acceptance Criteria:** 
+**Acceptance Criteria:** <br>
 Given I am using a daily planner to create a schedule... <br>
 When I open the planner, then the current day is displayed at the top of the calendar <br>
 When I scroll down, then I am presented with time blocks for standard business hours of 9am to 5pm <br>
