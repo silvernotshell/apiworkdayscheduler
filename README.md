@@ -13,6 +13,6 @@ When I click into a time block, then I can enter an event <br>
 When I click the save button for that time block, then the text for that event is saved in local storage <br>
 When I refresh the page, then the saved events persist <br>
 
-**Screenshot:** ![screenshot of deployed application](<images/Screenshot 2024-03-11 at 5.34.53 PM.png>)
+**Screenshot:** <br> ![screenshot of deployed application](<images/Screenshot 2024-03-11 at 5.34.53 PM.png>)
 
 **Link:** https://silvernotshell.github.io/apiworkdayscheduler/
